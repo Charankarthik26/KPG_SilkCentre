@@ -1,0 +1,2 @@
+TABLES: products, users, favorites, orders, order_items, cart_items
+COLUMNS: id, name, category, subCategory, price, isAR, color, stock, image, description
